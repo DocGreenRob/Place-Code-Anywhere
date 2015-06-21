@@ -1,0 +1,21 @@
+#aca_inc_options_table .select_pages {
+	width: 100%; 
+	height: 97px;
+}
+#aca_inc_options_table .text_input {
+	width: 100%;
+}
+#aca_inc_options_table .select_input {
+	width: 150px;
+}
+#aca_inc_options_table .digit_input {
+	width: 150px;
+}
+#aca_inc_options_table .textarea_input {
+	width: 100%;
+	height: 130px;
+}
+
+#any_code_anywhere_errors .any_code_anywhere_error {
+	color: red;
+}

@@ -1,0 +1,463 @@
+# Copyright (C) 2015 Any Code Anywhere
+# This file is distributed under the same license as the Any Code Anywhere package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Any Code Anywhere 2.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/any-code-anywhere\n"
+"POT-Creation-Date: 2011-08-24 15:13:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: aca-table/aca_table_func.php:269 aca-table/aca_table_func.php:283
+#: aca-table/aca_table_classes.php:523 aca-table/aca_table_classes.php:547
+#: aca-table/aca_table_classes.php:643
+#: aca-table/aca_table_classes.php:1092
+#: aca-table/aca_table_classes.php:3138
+msgid "All"
+msgstr ""
+
+#: aca-table/aca_table_func.php:362
+msgid "Visitor"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:84 aca-table/aca_table_classes.php:130
+msgid "Activate"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:126 aca-table/aca_table_classes.php:258
+#: any-code-anywhere.php:322
+msgid "Deactivate"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:174 aca-table/aca_table_classes.php:214
+msgid "Delete"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:432 aca-table/aca_table.php:169
+#: aca-table/aca_table.php:283
+msgid "Apply"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:434
+msgid "Cancel"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:442
+msgid "To select multiple pages or deselect page hold CTRL key"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:474
+#: aca-table/aca_table_classes.php:2311
+msgid "Pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:507
+msgid "PF"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:511 any-code-anywhere.php:454
+msgid "Post Formats"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:780
+msgid "from"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:1036
+msgid "Search"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:1255
+msgid "Yes"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:1255
+msgid "No"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2307
+msgid "Select pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2443
+msgid "Record updated"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2451
+#: aca-table/aca_table_classes.php:2471
+#: aca-table/aca_table_classes.php:2509
+msgid "DB error:"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2465
+msgid "Record inserted"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2503
+msgid "Record(s) deleted"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2992
+msgid "Description"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:2996
+msgid "Name/description of the included code. Required field"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3001
+msgid "Status"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3004
+msgid "Active"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3004
+msgid "Disabled"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3006
+msgid "Active - code will be displayed, Disabled - code will not be displayed"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3012
+msgid "Location"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Header"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Footer"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Widget"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Before page content"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "After page content"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Before post content"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "After post excerpt"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "After post content"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Manual"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3015
+msgid "Shortcode"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3017
+msgid ""
+"Location where to place included code. If Widget selected, go to the Widget "
+"admin page to setup widget position. In Manual mode you must insert plugin "
+"function directly in to theme file"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3023
+msgid "Widget Title"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3032
+msgid "Priority"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3036
+msgid "Determines display order of includes in the same location"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3042
+msgid "Insert on pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3046
+msgid ""
+"Pages where code CAN BE shown. Hold CTRL key for multiple select or deselect "
+"pages. Required field"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3052
+msgid "Exclude pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3056
+msgid ""
+"Pages where code CAN NOT be shown. Hold CTRL key for multiple select or "
+"deselect pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3062
+msgid "Hide from user"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3066
+msgid ""
+"Code will be hidden for all users with the selected roles. Visitor - is a "
+"virtual user role for all not registered visitors of your site. Use example: "
+"if you select Visitor role only, code will be shown only for registered "
+"users."
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3072
+msgid "Align"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3075
+msgid "Align Not Set"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3075
+msgid "Align Left"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3075
+msgid "Align Center"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3075
+msgid "Align Right"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3082
+msgid "Include code"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3086
+msgid ""
+"Included code. Required field. Any type of HTML, CSS, JAVASCRIPT and PHP "
+"code. PHP code must begins with php open tag. Align option allows you to "
+"wrap code in a div with selected text-align css propertie. Useful for "
+"aligning Google AdSense blocks and so on"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3101
+msgid "You must input Description field!"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3107
+msgid "Priority number must be integer!"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3113
+msgid "You must select at least one page where to place included code!"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3119
+msgid "You must enter included code!"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3139
+msgid "Front page"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3140
+msgid "All Post Types pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3141
+msgid "Taxonomies pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3142
+msgid "Date pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3143
+msgid "Author pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3144
+msgid "Attachment pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3145
+msgid "Paged pages"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3146
+msgid "Search page"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3147
+msgid "Preview page"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3148
+msgid "Page 404"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3165
+msgid "Status changed"
+msgstr ""
+
+#: aca-table/aca_table_classes.php:3185
+msgid "Copy to clipboard"
+msgstr ""
+
+#: aca-table/aca_table.php:79 any-code-anywhere.php:254
+msgid "Add New"
+msgstr ""
+
+#: aca-table/aca_table.php:165 any_code_anywhere_widget.php:94
+#: any-code-anywhere.php:256 any-code-anywhere.php:392
+msgid "Settings"
+msgstr ""
+
+#: aca-table/aca_table.php:167
+msgid "Rows per page:"
+msgstr ""
+
+#: aca-table/aca_table.php:279
+msgid "Bulk Actions"
+msgstr ""
+
+#: aca-table/aca_table.php:589
+msgid "No data"
+msgstr ""
+
+#: aca-table/aca_table.php:702 any-code-anywhere.php:508
+msgid "Save Changes"
+msgstr ""
+
+#: aca-table/aca_table.php:731
+msgid "Delete selected?"
+msgstr ""
+
+#: aca-table/aca_table.php:755
+msgid "Delete?"
+msgstr ""
+
+#: any_code_anywhere_widget.php:60
+msgid "aca Insert Manager Widget"
+msgstr ""
+
+#: any-code-anywhere.php:159
+msgid "PHP version"
+msgstr ""
+
+#: any-code-anywhere.php:159 any-code-anywhere.php:182
+msgid "is incompatible with this plugin. You need at least version"
+msgstr ""
+
+#: any-code-anywhere.php:182
+msgid "Wordpress version"
+msgstr ""
+
+#: any-code-anywhere.php:250
+msgid "Code Insert"
+msgstr ""
+
+#: any-code-anywhere.php:252
+msgid "Inserts"
+msgstr ""
+
+#: any-code-anywhere.php:298
+msgid "aca Inc Manager Homepage"
+msgstr ""
+
+#: any-code-anywhere.php:370
+msgid "Need help? Visit"
+msgstr ""
+
+#: any-code-anywhere.php:370
+msgid "Plugin Homepage"
+msgstr ""
+
+#: any-code-anywhere.php:396
+msgid ""
+"Here you can select post types and taxonomies. Selected items will be "
+"available for \"Insert\" and \"Exclude\" filters. \"Expand\" option allows "
+"you to select individual posts/pages for each Post Type or Taxonomy group."
+msgstr ""
+
+#: any-code-anywhere.php:404
+msgid "Post Types"
+msgstr ""
+
+#: any-code-anywhere.php:434 any-code-anywhere.php:460 any-code-anywhere.php:494
+msgid "Expand"
+msgstr ""
+
+#: any-code-anywhere.php:446
+msgid "Taxonomies"
+msgstr ""
+
+#: any-code-anywhere.php:514
+msgid "If you like this plugin - help me to promote it! You can:"
+msgstr ""
+
+#: any-code-anywhere.php:518
+msgid "Translate it to unsupported language"
+msgstr ""
+
+#: any-code-anywhere.php:520
+msgid "Rate it on the official Plugin Directory"
+msgstr ""
+
+#: any-code-anywhere.php:522
+msgid "Write a review or an article"
+msgstr ""
+
+#: any-code-anywhere.php:524
+msgid "Or just let your friends know about this plugin"
+msgstr ""
+
+#: any-code-anywhere.php:528
+msgid "Thank you!"
+msgstr ""
+
+#: any-code-anywhere.php:562
+msgid "Deactivation"
+msgstr ""
+
+#: any-code-anywhere.php:574
+msgid "Deactivate plugin"
+msgstr ""
+
+#: any-code-anywhere.php:589
+msgid "Deactivate plugin and delete all settings from database"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Any Code Anywhere"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.aca.ru/code-insert-manager-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows you to insert html, css , javascript and PHP code to "
+"public wordpress pages. Requires Wordpress 2.8 and PHP 5.1."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Max Bond"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.aca.ru/"
+msgstr ""

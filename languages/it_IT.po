@@ -1,0 +1,487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: aca Inc Manager v1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-09-25 00:53+0100\n"
+"Last-Translator: Igor F. <igorx81@gmail.com>\n"
+"Language-Team: vazy.biz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:132
+msgid "PHP version"
+msgstr "versione PHP"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:132
+#: any-code-anywhere.php:155
+msgid "is incompatible with this plugin. You need at least version"
+msgstr "non è compatibile con questo plugin. È necessaria almeno la versione"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:155
+msgid "Wordpress version"
+msgstr "versione di Wordpress"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:269
+#: any-code-anywhere.php:271
+msgid "aca Inc Manager Homepage"
+msgstr "Homepage di aca Inc Manager"
+
+#@ default
+#@ any-code-anywhere
+#: any-code-anywhere.php:295
+#: aca-table/aca_table_classes.php:126
+#: aca-table/aca_table_classes.php:258
+msgid "Deactivate"
+msgstr "Disattiva"
+
+#@ default
+#: any-code-anywhere.php:297
+#: aca-table/aca_table.php:161
+#: any_code_anywhere_widget.php:94
+msgid "Settings"
+msgstr "Impostazioni"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:343
+msgid "Need help? Visit"
+msgstr "Serve aiuto? Visita"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:343
+msgid "Plugin Homepage"
+msgstr "Homepage plugin"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:361
+msgid "deactivate options"
+msgstr "disattiva pzioni"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:373
+msgid "Plugin deactivated!"
+msgstr "Plugin disattivato!"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:385
+msgid "Plugin deactivated, database entries deleted!"
+msgstr "Plugin disattivato, voci del database eliminate!"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:403
+msgid "Deactivate plugin"
+msgstr "Disattiva il plugin"
+
+#@ any-code-anywhere
+#: any-code-anywhere.php:418
+msgid "Deactivate plugin and delete all settings from database"
+msgstr "Disattiva il plugin ed elimina tutte le impostazioni dal database"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:163
+msgid "Rows per page:"
+msgstr "Righe per pagina:"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:165
+#: aca-table/aca_table.php:279
+#: aca-table/aca_table_classes.php:380
+msgid "Apply"
+msgstr "Applica"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:275
+msgid "Bulk Actions"
+msgstr "Azioni di massa"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:285
+#: aca-table/aca_table.php:637
+msgid "Create New"
+msgstr "Crea nuovo"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:583
+msgid "No data"
+msgstr "Nessun dato"
+
+#@ default
+#: aca-table/aca_table.php:696
+msgid "Save Changes"
+msgstr "Salva cambiamenti"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:725
+msgid "Delete selected?"
+msgstr "Eliminare selezionati?"
+
+#@ any-code-anywhere
+#: aca-table/aca_table.php:749
+msgid "Delete?"
+msgstr "Eliminare?"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:84
+#: aca-table/aca_table_classes.php:130
+msgid "Activate"
+msgstr "Attiva"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:174
+#: aca-table/aca_table_classes.php:214
+msgid "Delete"
+msgstr "Cancella"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:382
+msgid "Cancel"
+msgstr "Annulla"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:390
+msgid "To select multiple pages or deselect page hold CTRL key"
+msgstr "Per selezionare più pagine o deselezionare una pagina, tieni premuto il tasto CTRL"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:422
+#: aca-table/aca_table_classes.php:445
+#: aca-table/aca_table_classes.php:1453
+msgid "Pages"
+msgstr "Pagine"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:449
+msgid "Categories"
+msgstr "Categorie"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:453
+msgid "Tags"
+msgstr "Tag"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:457
+msgid "Posts"
+msgstr "Articoli"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:523
+#: aca-table/aca_table_classes.php:2254
+msgid "All"
+msgstr "Tutte"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:660
+msgid "from"
+msgstr "da"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:826
+msgid "Yes"
+msgstr "Sì"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:826
+msgid "No"
+msgstr "No"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:1449
+msgid "Select pages"
+msgstr "Seleziona pagine"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:1585
+msgid "Record updated"
+msgstr "Record aggiornato"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:1593
+#: aca-table/aca_table_classes.php:1613
+#: aca-table/aca_table_classes.php:1651
+msgid "DB error:"
+msgstr "Errore DB:"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:1607
+msgid "Record inserted"
+msgstr "Record inserito"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:1645
+msgid "Record(s) deleted"
+msgstr "Record aggiornato (i)"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2115
+msgid "Description"
+msgstr "Descrizione"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2119
+msgid "Name/description of the included code. Required field"
+msgstr "Nome/Descrizione descrizione del codice da inserire. Campo obbligatorio"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2124
+msgid "Status"
+msgstr "Stato"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2127
+msgid "Active"
+msgstr "Attivo"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2127
+msgid "Disabled"
+msgstr "Disattivato"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2129
+msgid "Active - code will be displayed, Disabled - code will not be displayed"
+msgstr "Attico: il codice sarà visualizzato, Disattivo: il codice non sarà visualizzato"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2134
+msgid "Location"
+msgstr "Posizione"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Header"
+msgstr "Testata"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Footer"
+msgstr "Pié di pagina"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Widget"
+msgstr "Widget"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Before page content"
+msgstr "Inizio pagina"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "After page content"
+msgstr "Fine pagina"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Before post content"
+msgstr "Inizio articolo"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "After post content"
+msgstr "Fine articolo"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Manual"
+msgstr "Manuale"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2137
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2139
+msgid "Location where to place included code. If Widget selected, go to the Widget admin page to setup widget position. In Manual mode you must insert plugin function directly in to theme file"
+msgstr "Posizione dove verrà inserito il codice. Se selezioni Widget, vai in Aspetto, Widget per impostare la posizione. Nella modalità Manuale, devi inserire il codice del plugin direttamente nel tema"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2144
+msgid "Widget Title"
+msgstr "Titolo Widget"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2153
+msgid "Priority"
+msgstr "Priorità"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2157
+msgid "Determines display order of includes in the same location"
+msgstr "Stabilisce l'ordine di visualizzazione di codici inseriti nella stessa posizione"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2162
+msgid "Include on"
+msgstr "Includi"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2166
+msgid "Pages where code CAN BE shown. Hold CTRL key for multiple select or deselect pages. Required field"
+msgstr "Pagine dove APPARIRÀ il codice. Tieni premuto CTRL per selezioni multiple o deselezionare. Campo obbligatorio"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2171
+msgid "Exclude on"
+msgstr "Escludi"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2175
+msgid "Pages where code CAN NOT be shown. Hold CTRL key for multiple select or deselect pages"
+msgstr "Pagine dove il codice NON APPARIRÀ. Tieni premuto CTRL per selezioni multiple o deselezionare"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2180
+msgid "Hide from admin"
+msgstr "Nascondi all'amministratore"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2184
+msgid "Option to hide code form logged in admin. Useful to exclude admin visits from Google Analitics reports and so on"
+msgstr "Opzione per nascondere il codice quando si è loggati come amministratore. Utile per non includere le visite nelle statistiche Google Analitics e così via"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2189
+msgid "Align"
+msgstr "Allineamento"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2192
+msgid "Align Not Set"
+msgstr "Non impostato"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2192
+msgid "Align Left"
+msgstr "Sinistra"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2192
+msgid "Align Center"
+msgstr "Centro"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2192
+msgid "Align Right"
+msgstr "Destra"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2199
+msgid "Include code"
+msgstr "Inserisci il codice"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2203
+msgid "Included code. Required field. Any type of HTML, CSS, JAVASCRIPT and PHP code. PHP code must begins with php open tag. Align option allows you to wrap code in a div with selected text-align css propertie. Useful for aligning Google AdSense blocks and so on"
+msgstr "Il codice da includere. Campo obbligatorio. Qualsiasi codice HTML, CSS, JAVASCRIPT e PHP. Il codice PHP deve iniziare con il tag di apertura.L'opzione allineamento consente di racchiudere il codice in div con le proprietà selezionate per il text-align. Utile per allineare i blocchi Google AdSense e così via.."
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2218
+msgid "You must input Description field!"
+msgstr "Devi inserire una descrizione nel campo!"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2224
+msgid "Priority number must be integer!"
+msgstr "La priorità deve essere un numero intero!"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2230
+msgid "You must select at least one page where to place included code!"
+msgstr "Devi selezionare almeno una pagina in cui includere il codice!"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2236
+msgid "You must enter included code!"
+msgstr "Devi inserire il codice da includere!"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2254
+msgid "Front page"
+msgstr "Pagina iniziale"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2255
+msgid "WP pages"
+msgstr "Pagine WP"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2255
+msgid "Posts pages"
+msgstr "Pagine Articoli"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2256
+msgid "Date pages"
+msgstr "Pagine Data"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2256
+msgid "Category pages"
+msgstr "Pagine Categoria"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2257
+msgid "Tag pages"
+msgstr "Pagine Tag"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2257
+msgid "Author pages"
+msgstr "Pagine Autore"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2258
+msgid "Attachment pages"
+msgstr "Pagine Allegati"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2258
+msgid "Paged pages"
+msgstr "Pagine Pagina"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2259
+msgid "Search page"
+msgstr "Pagine Ricerca"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2259
+msgid "Preview page"
+msgstr "Pagina Anteprima"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2260
+msgid "Page 404"
+msgstr "Pagina 404"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2276
+msgid "Status changed"
+msgstr "Stato modificato"
+
+#@ any-code-anywhere
+#: aca-table/aca_table_classes.php:2296
+msgid "Copy to clipboard"
+msgstr "Copia"
+
+#@ any-code-anywhere
+#: any_code_anywhere_widget.php:60
+msgid "aca Inc Manager Widget"
+msgstr "Widget aca Inc Manager"
+
